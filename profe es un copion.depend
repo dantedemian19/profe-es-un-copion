@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534532684 source:d:\profe es un copion\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+	<windows.h>
+
